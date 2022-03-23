@@ -1,10 +1,11 @@
 # Springboot Restful API for employee management
 
-##Tech Stack
+A little project to demonstrate how to build a simple CRUD API for Employee management system
+## Tech Stack
 
 - Springboot
 - Springframework
 - Postgresql
-- Hybernate
+- Hibernate
 - SpringData JPA
 - Swagger UI
